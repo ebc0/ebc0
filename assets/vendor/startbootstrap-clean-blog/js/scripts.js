@@ -1,7 +1,7 @@
 /*!
-* Start Bootstrap - Clean Blog v5.1.0 (https://startbootstrap.com/theme/clean-blog)
+* Start Bootstrap - Shutterflow v5.1.0 (https://startbootstrap.com/theme/shutterflow)
 * Copyright 2013-2021 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-clean-blog/blob/master/LICENSE)
+* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shutterflow/blob/master/LICENSE)
 */
 (function ($) {
     "use strict"; // Start of use strict
